@@ -1,0 +1,13 @@
+{
+  "name": "pgherveou-prefix",
+  "description": "get prefixed styles properties",
+  "version": "0.0.2",
+  "keywords": [
+    "dom",
+    "css",
+    "prefix"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
